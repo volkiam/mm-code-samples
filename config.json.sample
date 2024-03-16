@@ -1,0 +1,8 @@
+{
+    "server_url": "your_server_name.local",
+    "server_port": "443",
+    "bot_username": "username",
+    "bot_password": "password",
+    "channel_id": "channel_id_for_append_members_from_sample2"
+}
+
